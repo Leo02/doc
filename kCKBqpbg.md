@@ -1,4 +1,4 @@
-测试文稿-Zac-2020年8月19日
+Markdown.app 与 MarkEditor- -2020年8月19日
 ## 两者关系
 
 Markdown.app （后面简称 MD） 不是 MarkEditor （后面简称 ME） 的替代品，是为了让更多人使用 Markdown 语法驱动的写作工具做的一次努力，包括 MD 比较低的定价，也是我们心意的一种表达。
